@@ -21,6 +21,18 @@
 - Light OJ
 - At Coder
 
+# Blog Category
+- Number Theroy
+  - Random Talk About Some Even ODD Concept
+  - GCD & LCM
+  - Prime Numbers
+  - sieve of eratosthenes
+  - so on
+- Bit Related Talks
+  - Basic Bit
+  - Some Bit Related Facts
+  - Decimal To Binary Conversion
+  - so on
 
 # Continue ....
 
