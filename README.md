@@ -1,4 +1,4 @@
-# Life Is Simple
+
 `Eat Code Sleep`
 
 # My Competitive Programming library
