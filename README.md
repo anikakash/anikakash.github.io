@@ -9,7 +9,7 @@
 | Topic Name              | Link / Refarence                                                                              |
 | :---------------------: | :-------------------------------------------------------------------------------------------: |
 | Starting Guide          | [By DIU ACM](http://acm.daffodilvarsity.edu.bd/about/)                                        |
-| Coding Enviroment Setup | [Click Here](https://github.com/anikakash/Sports-Programming/blob/main/Lib/codingidesetup.md) |
+| Coding Enviroment Setup | [Click Here](sublime.md)                                                                      |
 
 # Continue ....
 
