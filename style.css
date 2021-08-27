@@ -1,0 +1,21 @@
+
+.navbar li{
+    background-color: blueviolet;
+    color: white;
+
+}
+.navbar li{
+    float: right;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 26px;
+}
+.navbar a{
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 26px;
+    font-size: 22 px;
+}
