@@ -8,7 +8,7 @@
 | Topic Name              | Link / Refarence                                                                              |
 | :---------------------: | :-------------------------------------------------------------------------------------------: |
 | Starting Guide          | [By DIU ACM](http://acm.daffodilvarsity.edu.bd/about/)                                        |
-| Coding Enviroment Setup | [Click Here](sublime.md)                                                                      |
+| Coding Enviroment Setup | [Click Here](_Blog/sublime.md)                                                                      |
 
 
 # List Of Online Judge
