@@ -7,7 +7,7 @@
 
 | Topic Name              | Link / Refarence                                                                              |
 | :---------------------: | :-------------------------------------------------------------------------------------------: |
-| Starting Guide          | [By DIU ACM](http://acm.daffodilvarsity.edu.bd/about/)                                        |
+| Starting Guide          | [By DIU ACM](http://acm.daffodilvarsity.edu.bd/about/){:target="\_blank"}                     |
 | Coding Enviroment Setup | [Click Here](Blog/sublime.md){:target="\_blank"}                                              |
 
 
