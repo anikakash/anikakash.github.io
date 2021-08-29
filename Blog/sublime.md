@@ -80,5 +80,5 @@ int main(){
 9 . Now whenever you need to compile your code just click `ctrl + B` and your will complie and generate output corresponding your input.
 
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=186863546529413&autoLogAppEvents=1" nonce="8BPD9ZFx"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=1237044553429748&autoLogAppEvents=1" nonce="E32Vln5U"></script>
 <div class="fb-like" data-href="https://anikakash.github.io/Blog/sublime.html" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
