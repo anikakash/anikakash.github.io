@@ -86,5 +86,5 @@ int main(){
 
 9 . Now whenever you need to compile your code just click `ctrl + B` and your will complie and generate output corresponding your input.
 
-[Go Bake To Home....](https://anikakash.github.io/)
+[Go Bake To Home....](https://anikakash.github.io/)<br>
 [Next Blog](https://anikakash.github.io/Blog/mis.html)

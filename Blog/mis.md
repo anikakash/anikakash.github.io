@@ -45,6 +45,6 @@ int main(){
 
 ```
 
-[Go Bake To Home....](https://anikakash.github.io/)
+[Go Bake To Home....](https://anikakash.github.io/)<br>
 <!-- [Next Blog]() -->
 [Previous Blog](https://anikakash.github.io/Blog/sublime.html)
