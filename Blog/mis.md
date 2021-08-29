@@ -1,5 +1,8 @@
+
+## PassWord Generator
+
 Sometimes we need to generate a strong password. So for this you can use this code.
-Just copy this c++ code and run this [online ide](https://ideone.com/l/cpp){:target="\_blank"} or your computer's c++ compiler.
+Just copy this c++ code and run this [online ide](https://ideone.com/l/cpp){:target="\_blank"} 
 
 ```cpp
 
@@ -17,6 +20,25 @@ int main(){
         cout << rendom[j];
     }
     cout << endl;
+}
+
+```
+
+## Find Last Digit
+
+```cpp
+
+#include<bits/stdc++.h>
+using namespace    std;
+
+int main(){
+    int n=, lastDigit=0; 
+    
+    while(n>0){
+        lastDigit = n%10;
+        n=n/10;
+    }
+    cout<<lastDigit<<endl;
 }
 
 ```

@@ -12,7 +12,7 @@
 
 ## Some Help Full Article
 1. [Coding Enviroment Setup](Blog/sublime.md){:target="\_blank"} `(sublime)`
-2. [Some Miscellaneous](Blog/passwordgenerator.md){:target="\_blank"}
+2. [Some Miscellaneous](Blog/mis.md){:target="\_blank"}
 
 ## List Of Online Judge
 - Code Forces
