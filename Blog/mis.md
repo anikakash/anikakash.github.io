@@ -44,3 +44,7 @@ int main(){
 }
 
 ```
+
+[Go Bake To Home....](https://anikakash.github.io/)
+<!-- [Next Blog]() -->
+[Previous Blog](https://anikakash.github.io/Blog/sublime.html)
