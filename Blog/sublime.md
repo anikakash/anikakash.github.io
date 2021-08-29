@@ -78,3 +78,7 @@ int main(){
 8 . press `ctrl + shift + B` and a pop up will bring your sublime click one which has `-Run` part. `WOW` See you can successfully Generate your output.
 
 9 . Now whenever you need to compile your code just click `ctrl + B` and your will complie and generate output corresponding your input.
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=186863546529413&autoLogAppEvents=1" nonce="7K5idP8B"></script>
+<div class="fb-like" data-href="https://anikakash.github.io/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
