@@ -1,4 +1,4 @@
-<p>Sometimes we need to generate a strong password. So for this you can use this code.<p>
+Sometimes we need to generate a strong password. So for this you can use this code.
 Just copy this c++ code and run this [online ide](https://ideone.com/l/cpp){:target="\_blank"} or your computer's c++ compiler.
 
 ```cpp
