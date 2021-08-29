@@ -1,5 +1,5 @@
 # Some Miscellaneous 
-Might be help you
+Might help you
 
 ## PassWord Generator
 
