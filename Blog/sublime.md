@@ -1,5 +1,9 @@
 # Coding Enviroment Setup
 
+
+<div class="fb-like" data-href="https://anikakash.github.io/Blog/sublime.html" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
+
+
 sublime is the best text editor for `Competitive Programming`.  Also it is a lite weight text edito and You can use file input output so easily handel big input output.
 
 So, for setup sublime before you need to prepar your computer.
