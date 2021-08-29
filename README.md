@@ -8,8 +8,9 @@
 | Topic Name              | Link / Refarence                                                                              |
 | :---------------------: | :-------------------------------------------------------------------------------------------: |
 | Starting Guide          | [By DIU ACM](http://acm.daffodilvarsity.edu.bd/about/)                                        |
-| Coding Enviroment Setup | [Click Here](Blog/sublime.md)                                                                      |
+| Coding Enviroment Setup | [Click Here](Blog/sublime.md){:target="\_blank"}                                              |
 
+<a href="Blog/sublime.md" target="_blank">Click Here</a>
 
 # List Of Online Judge
 - Code Forces
