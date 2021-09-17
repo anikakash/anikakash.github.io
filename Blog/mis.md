@@ -46,9 +46,11 @@ int main(){
 ```
 
 ## Math
-```let's
- x =  __gcd(a,b) ;
+``` 
+let's
+    x =  __gcd(a,b) ;
  then x<= abs(a-b);
+ 
 ```
 
 [Go Bake To Home....](https://anikakash.github.io/)<br>
