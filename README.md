@@ -40,3 +40,6 @@
 
 ## Continue ....
 এই ব্লগে আমারা নিজেদের নলেজ আপাদের সাথে শেয়ার করার চেষ্টা করেছি
+
+[FaceBook](https://www.facebook.com/anikdash.akash/){: .btn .btn-green } 
+[Git Hub](https://github.com/anikakash){: .btn .btn-green }
