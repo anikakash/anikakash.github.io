@@ -52,6 +52,7 @@ let's
  then x<= abs(a-b);
  
 ```
+practice problem : https://codeforces.com/problemset/problem/1543/A
 
 [Go Bake To Home....](https://anikakash.github.io/)<br>
 <!-- [Next Blog]() -->
