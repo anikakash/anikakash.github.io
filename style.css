@@ -1,5 +1,8 @@
 .body{
     background-color: purple;
     /* align-content: center; */
+    /* align-items: center; */
+}
+.body pic{
     align-items: center;
 }
