@@ -1,10 +1,24 @@
-.body{
-    background-color: purple;
-    /* align-content: center; */
-    /* align-items: center; */
+body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Avenir', sans-serif; 
+  color: #33475b;    
 }
-.body .pic{
-    align-content: center;
-    width: 200;
-    height: 300;
+
+/* Centered Image Code */
+
+.container {
+  height: 500px;
+  position: relative;
+  border: 3px solid #dbe4ed; /* Border color is optional */ 
+}
+
+ .center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
